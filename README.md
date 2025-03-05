@@ -56,7 +56,7 @@ The insights gained will empower the following stakeholders to make informed str
 
 ### 1. Empathize
 
-
+<img width="1247" alt="Screen Shot 2025-03-06 at 10 34 41 AM" src="https://github.com/user-attachments/assets/e5ae3da8-8c5d-4b25-b8c6-cdeeb54b6a27" />
 
 ### 2. Define point of view
 
