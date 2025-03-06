@@ -68,7 +68,7 @@ The insights gained will empower the following stakeholders to make informed str
 
 ### 3. Ideate
 
-
+<img width="1004" alt="Screen Shot 2025-03-06 at 2 14 51 PM" src="https://github.com/user-attachments/assets/de7fac51-7dc2-45fb-b535-ac13d24b2f5a" />
 
 
 Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved the final result, which will be presented in the following section as a dashboard.
