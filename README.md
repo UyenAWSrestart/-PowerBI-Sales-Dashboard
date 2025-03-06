@@ -39,20 +39,15 @@ The insights gained will empower the following stakeholders to make informed str
 ## II. Dataset Description
 
 - Dataset: stores sales information of some products of a company worldwide named Global Superstore Sales.
-- Consists of 3 data tables:
-+ Table 1: Orders: Fact order
-+ Table 2: People: Information of Sales person
-+ Table 3: Returns: Information of Returned orders
 
--
 - Data Structure:
   There are 5 tables that we will work on it.
 
-| Table                | Type                                                                                                                      |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Orders         | Fact order                                                                            |
-| People       | Information of Sales person             |
-| Returns      | Information of Returned orders                                                                                           
+| Table          | Type                                    |
+| -------------------------------------------------------- |
+| Orders         | Fact order                              |
+| People         | Information of Sales person             |
+| Returns        | Information of Returned orders          |
 
 
 -  Data relationships: (bổ sung data modelling)
