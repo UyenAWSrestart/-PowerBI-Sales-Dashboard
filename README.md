@@ -31,7 +31,6 @@ The insights gained will empower the following stakeholders to make informed str
 ### Business Questions:
 
 - Which products/regions contribute the most to sales?
-- Why do sales of the same product vary significantly across different regions?
 - Is there a correlation between sales volume and return rates?
 - How do sales staff impact overall sales performance?
 
@@ -45,11 +44,9 @@ The insights gained will empower the following stakeholders to make informed str
 
 | Table          | Type                                    |
 | ---------------|---------------------------------------- |
-| Orders         | Fact order                              |
+| Orders         | Information of order (fact table        |
 | People         | Information of Sales person             |
 | Returns        | Information of Returned orders          
-
-
 
 
 -  Data relationships: (bổ sung data modelling)
@@ -62,10 +59,11 @@ The insights gained will empower the following stakeholders to make informed str
 
 ### 1. Empathize
 
-<img width="1247" alt="Screen Shot 2025-03-06 at 10 34 41 AM" src="https://github.com/user-attachments/assets/e5ae3da8-8c5d-4b25-b8c6-cdeeb54b6a27" />
+<img width="1258" alt="Screen Shot 2025-03-06 at 1 53 21 PM" src="https://github.com/user-attachments/assets/32a81178-3f29-49f6-b41b-53a6b8777252" />
 
 ### 2. Define point of view
 
+<img width="1371" alt="Screen Shot 2025-03-06 at 2 00 22 PM" src="https://github.com/user-attachments/assets/58dc86a5-bba5-4e6f-97c6-355b0a7fb975" />
 
 
 ### 3. Ideate
