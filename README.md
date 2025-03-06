@@ -44,10 +44,12 @@ The insights gained will empower the following stakeholders to make informed str
   There are 5 tables that we will work on it.
 
 | Table          | Type                                    |
-| -------------------------------------------------------- |
+| ---------------|---------------------------------------- |
 | Orders         | Fact order                              |
 | People         | Information of Sales person             |
 | Returns        | Information of Returned orders          
+
+
 
 
 -  Data relationships: (bổ sung data modelling)
