@@ -15,35 +15,44 @@ V. [Final Conclusion & Recommendations](#v-final-conclusion--recommendations)
 
 ## I. Introduction
 
-Based on the AdventureWorks database, this project analyzes the manufacturing process of a bicycle manufacturer using Power BI.
+This project analyzes the sales performance of Global Superstore using Power BI.
+
 ### The objective:
-- Ensure products are delivered on time.
-- Minimize scrapped products.
-  
+
+Analyze product sales and return rates by region, product groups and sales representatives to identify strategic products and develop market expansion plans.
+
 ### Stakeholders: 
-The insights gained will empower the following stakeholders to make informed strategic decisions and enhance overall business operations:
+
+The insights gained will empower the following stakeholders to make informed strategic decisions and enhance sales performance:
 - Data analysts & business analysts
-- Production managers
-- Decision-makers & executives
+- Sales managers
+- R&D department.
 
 ### Business Questions:
-- Why does the company fail to deliver these products on time?
-- What strategies can be implemented to minimize scrapped products?
-  
+
+- Which products/regions contribute the most to sales?
+- Why do sales of the same product vary significantly across different regions?
+- Is there a correlation between sales volume and return rates?
+- How do sales staff impact overall sales performance?
+
 
 ## II. Dataset Description
 
-- Source: The Bicycle Manufacturer dataset is stored in a public Google BigQuery dataset named "adventureworks2019"
+- Dataset: stores sales information of some products of a company worldwide named Global Superstore Sales.
+- Consists of 3 data tables:
++ Table 1: Orders: Fact order
++ Table 2: People: Information of Sales person
++ Table 3: Returns: Information of Returned orders
+
+-
 - Data Structure:
   There are 5 tables that we will work on it.
 
 | Table                | Type                                                                                                                      |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Fact_Product         | Details of product sold or used in production.                                                                            |
-| Fact_Workorder       | Contains order details, including product ID, scrapped products quantity, due date, start date, and end date.             |
-| Dim_ScrapReason      | Reason for scrapped products.                                                                                             |
-| Dim_WorkOrderRouting | Lists only on-time and late orders. Details of location, actual order and delivery time for each work order and product.  |
-| Dim_Location         | Lists each stage in the production process.                                                                               |
+| Orders         | Fact order                                                                            |
+| People       | Information of Sales person             |
+| Returns      | Information of Returned orders                                                                                           
 
 
 -  Data relationships: (bổ sung data modelling)
