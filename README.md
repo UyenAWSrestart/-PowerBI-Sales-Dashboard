@@ -86,9 +86,11 @@ Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved
 
 ### Dashboard 3 Preview
 
-<img width="1066" alt="Screen Shot 2025-03-05 at 2 10 57 PM" src="https://github.com/user-attachments/assets/27838d22-69e1-40e3-953f-0b69deb91c78" />
+
 
 ### Dashboard 4 Preview
+
+
 
 
 
