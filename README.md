@@ -40,7 +40,7 @@ The insights gained will empower the following stakeholders to make informed str
 - Dataset: stores sales information of some products of a company worldwide named Global Superstore Sales.
 
 - Data Structure:
-  There are 5 tables that we will work on it.
+  There are 3 tables that we will work on it.
 
 | Table          | Type                                    |
 | ---------------|---------------------------------------- |
